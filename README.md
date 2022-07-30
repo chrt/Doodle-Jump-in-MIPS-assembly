@@ -2,7 +2,7 @@
 
 Doodle Jump in MIPS assembly language with sound effects, pleasant and soothing. This was my final project for CSC258H1F Fall 2020, University of Toronto.
 
-https://github.com/chrt/Doodle-Jump-in-MIPS-assembly/blob/main/demo.mp4
+https://user-images.githubusercontent.com/4054165/181996265-93b44cc4-28fe-4300-893b-f80dee5b379c.mp4
 
 ## Features
 
